@@ -1,0 +1,11 @@
+.list-foot {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.foot_1 img{
+    border-radius: 10px;
+    width:300px;
+}

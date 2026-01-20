@@ -1,0 +1,22 @@
+.foot {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+.Vegetable img{
+    border-radius: 20px;
+    width: 200px;
+}
+.Pasta img{
+    border-radius: 20px;
+    width: 200px;
+}
+.Fruit img {
+    border-radius: 20px;
+    width: 200px;
+}
+.Indian img{
+    border-radius: 20px;
+    width: 200px;
+}
